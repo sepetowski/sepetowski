@@ -3,7 +3,7 @@
 My name is Jakub and I am computer science student currently looking  for a job as a junior frontend developer :mag_right:
 
 <br>
-<br>
+
 
 ## Languages :books:
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
