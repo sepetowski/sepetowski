@@ -11,6 +11,7 @@ My name is Jakub and I am computer science student currently looking  for a job 
 <img align="left" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <br>
 <br>
+<br>
 
 ## Frameworks/Libraries :computer:
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -18,6 +19,7 @@ My name is Jakub and I am computer science student currently looking  for a job 
 <img align="left" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br>
 <br>
 <br>
 
@@ -28,9 +30,15 @@ My name is Jakub and I am computer science student currently looking  for a job 
 <img align="left" alt="Visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br>
 <br>
+<br>
 
 ## Contact with me :envelope:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jakub-sepetowski-070b6a266/)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/bushmeen/)
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sepetowski)](https://github.com/sepetowski/github-readme-stats)
