@@ -22,7 +22,6 @@ My name is Jakub and I am computer science student currently looking  for a job 
 <img align="left" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="Prisma" src="https://img.shields.io/badge/Prisma-000?&logo=Prisma&labelColor=000" />
 <br>
 <br>
 <br>
@@ -32,6 +31,7 @@ My name is Jakub and I am computer science student currently looking  for a job 
 <img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Npm" src="https://camo.githubusercontent.com/b47580b7e8e0b4ce9bb718070140318f72d316a0c88e0dd53a5ac4b0bdfc755e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
 <img align="left" alt="Visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="left" alt="Primsa" src="https://camo.githubusercontent.com/e552fb5ebcd89336410cd2df95c58c827234dee07d14b38282ab91d20ff142eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d6635663566353f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d626c61636b"/>
 <br>
 <br>
 <br>
