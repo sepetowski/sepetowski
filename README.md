@@ -1,8 +1,5 @@
 ##  Hello World  :raising_hand_man:
 
-My name is Jakub and I am computer science student currently looking  for a job as a junior frontend developer :mag_right:
-
-<br>
 
 
 ## Languages :books:
